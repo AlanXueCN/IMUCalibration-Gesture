@@ -35,6 +35,6 @@ https://blog.csdn.net/shenshikexmu/article/details/80013444
  ####  high low pass
    high and low pass filter to Gyro atitude with Accelerate & Magnetic
  
- 
-   
+
+   https://github.com/shenshikexmu/IMUCalibration-Gesture/raw/gesture.jpg
 
