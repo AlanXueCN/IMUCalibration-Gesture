@@ -35,6 +35,7 @@ https://blog.csdn.net/shenshikexmu/article/details/80013444
  ####  high low pass
    high and low pass filter to Gyro atitude with Accelerate & Magnetic
  
+ <img src="https://raw.github.com/xioTechnologies/Gait-Tracking-With-x-IMU/master/Screenshot%20-%20x-IMU%20Attached%20To%20Foot.png"/>
 
    https://github.com/shenshikexmu/IMUCalibration-Gesture/raw/gesture.jpg
 
