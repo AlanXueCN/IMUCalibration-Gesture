@@ -1,10 +1,13 @@
-##相关博客：
+相关博客:
+=====
 https://blog.csdn.net/shenshikexmu/article/details/80013444
 
-##读入数据，
+读入数据
+=====
  load('calfata.mat')
 
-##运行校正算法
+运行校正算法
+=====
    [Ta,Ka,Ba,Tg,Kg,Bg,Tm2a,Bm,Vm,mag_strength]=ImuCalibration_Gesture(cal_data)
 
 
