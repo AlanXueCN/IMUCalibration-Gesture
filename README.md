@@ -28,6 +28,7 @@ https://blog.csdn.net/shenshikexmu/article/details/80013444
 
  #####  Mahony filter
    conference **Nonlinear Complementery Filters on the Special Orthogonal Group**
+   
    inspired by    http://blog.csdn.net/luoshi006/article/details/51513580
  #####  EKF
    derivation **A Double-Stage Kalman Filter for Orientation Tracking with an Integrated Processor in 9-D IMU**
