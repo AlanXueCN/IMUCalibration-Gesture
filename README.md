@@ -18,7 +18,7 @@ https://blog.csdn.net/shenshikexmu/article/details/80013444
 #### 磁力计
    算法mag2acc_matrix假设重力与磁向量的夹角不变，算法Cal_mag4acc_frame利用不同姿态下传感器感受的磁通向量的变化与姿态变化的相关性，计算参数。
 
-#### 4.参数部分
+### 4.参数部分
 
 #####  cal_acc=Ta*Ka*(raw_acc+Ba)
 #####  cal_gyro=Tg*Kg*(raw_gyro+Bg)
@@ -29,10 +29,12 @@ https://blog.csdn.net/shenshikexmu/article/details/80013444
  ####  Mahony filter
    conference <Nonlinear Complementery Filters on the Special Orthogonal Group>
    inspired by    http://blog.csdn.net/luoshi006/article/details/51513580
- ####  EKF:
+ ####  EKF
    derivation <A Double-Stage Kalman Filter for Orientation Tracking with 
                an Integrated Processor in 9-D IMU>
- ####  high low pass:
+ ####  high low pass
    high and low pass filter to Gyro atitude with Accelerate & Magnetic
+ 
+ 
    
 
