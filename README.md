@@ -39,3 +39,5 @@ https://blog.csdn.net/shenshikexmu/article/details/80013444
 ##### 最后一帧姿态
 ![image](https://github.com/shenshikexmu/IMUCalibration-Gesture/blob/master/gesture.jpg)
 
+
+   ![姿态融合算法](https://img-blog.csdn.net/20180525145419843?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NoZW5zaGlrZXhtdQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
