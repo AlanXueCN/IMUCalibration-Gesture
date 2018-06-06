@@ -1,7 +1,10 @@
-0.相关博客：https://blog.csdn.net/shenshikexmu/article/details/80013444
-1.读入数据，calfata.mat
+##相关博客：
+https://blog.csdn.net/shenshikexmu/article/details/80013444
 
-2.运行校正算法
+##读入数据，
+ load('calfata.mat')
+
+##运行校正算法
    [Ta,Ka,Ba,Tg,Kg,Bg,Tm2a,Bm,Vm,mag_strength]=ImuCalibration_Gesture(cal_data)
 
 
